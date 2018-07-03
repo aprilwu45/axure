@@ -12,25 +12,47 @@
   position:absolute;
   z-index:0;
 }
-#u11751_img {
+#u16533_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1456px;
   height:537px;
 }
-#u11751 {
+#u16533 {
   position:absolute;
   left:82px;
   top:99px;
   width:1456px;
   height:537px;
 }
-#u11752 {
+#u16534 {
   position:absolute;
   left:2px;
   top:260px;
   width:1452px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u16535_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1271px;
+  height:296px;
+}
+#u16535 {
+  position:absolute;
+  left:88px;
+  top:697px;
+  width:1271px;
+  height:296px;
+}
+#u16536 {
+  position:absolute;
+  left:2px;
+  top:140px;
+  width:1267px;
   visibility:hidden;
   word-wrap:break-word;
 }
