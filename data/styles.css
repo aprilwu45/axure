@@ -15,6 +15,15 @@
 }
 .ellipse {
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .placeholder {
 }
 .button {
@@ -114,7 +123,7 @@
 }
 .table_cell {
 }
-._连接线 {
+._连接线1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
