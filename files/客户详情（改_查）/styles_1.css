@@ -1,4 +1,11 @@
 ﻿
+#u2721 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
 #u2722 {
   position:absolute;
   left:0px;
@@ -24,7 +31,7 @@
 #u2723_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2725 {
   position:absolute;
@@ -44,7 +51,7 @@
 #u2725_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2727 {
   position:absolute;
@@ -64,7 +71,7 @@
 #u2727_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2729 {
   position:absolute;
@@ -84,7 +91,7 @@
 #u2729_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2731_img {
   position:absolute;
@@ -666,7 +673,7 @@
 #u2768_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2770 {
   position:absolute;
@@ -686,7 +693,7 @@
 #u2770_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2772 {
   position:absolute;
@@ -706,7 +713,7 @@
 #u2772_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2774 {
   position:absolute;
@@ -726,7 +733,7 @@
 #u2774_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2776 {
   position:absolute;
@@ -746,7 +753,7 @@
 #u2776_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2778 {
   position:absolute;
@@ -1010,7 +1017,7 @@
 #u2797_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2799 {
   position:absolute;
@@ -1030,7 +1037,7 @@
 #u2799_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2801 {
   position:absolute;
@@ -1050,7 +1057,7 @@
 #u2801_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2803 {
   position:absolute;
@@ -1070,7 +1077,7 @@
 #u2803_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2805_img {
   position:absolute;
@@ -1548,7 +1555,7 @@
 #u2834_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2836 {
   position:absolute;
@@ -1568,7 +1575,7 @@
 #u2836_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2838 {
   position:absolute;
@@ -1588,7 +1595,7 @@
 #u2838_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2840 {
   position:absolute;
@@ -1608,7 +1615,7 @@
 #u2840_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2842 {
   position:absolute;
@@ -1628,7 +1635,7 @@
 #u2842_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2844 {
   position:absolute;
@@ -1892,7 +1899,7 @@
 #u2863_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2865 {
   position:absolute;
@@ -1912,7 +1919,7 @@
 #u2865_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2867 {
   position:absolute;
@@ -1932,7 +1939,7 @@
 #u2867_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2869 {
   position:absolute;
@@ -1952,7 +1959,7 @@
 #u2869_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2871 {
   position:absolute;
@@ -1972,7 +1979,7 @@
 #u2871_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2873 {
   position:absolute;
@@ -1992,7 +1999,7 @@
 #u2873_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2875 {
   position:absolute;
@@ -2012,7 +2019,7 @@
 #u2875_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2877_img {
   position:absolute;
@@ -2421,7 +2428,7 @@
 #u2901_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2903 {
   position:absolute;
@@ -2441,7 +2448,7 @@
 #u2903_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2905 {
   position:absolute;
@@ -2461,7 +2468,7 @@
 #u2905_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2907 {
   position:absolute;
@@ -2481,7 +2488,7 @@
 #u2907_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2909 {
   position:absolute;
@@ -2501,7 +2508,7 @@
 #u2909_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2911 {
   position:absolute;
@@ -2765,7 +2772,7 @@
 #u2930_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2932 {
   position:absolute;
@@ -2785,7 +2792,7 @@
 #u2932_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2934 {
   position:absolute;
@@ -2805,7 +2812,7 @@
 #u2934_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2936 {
   position:absolute;
@@ -2825,7 +2832,7 @@
 #u2936_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2938 {
   position:absolute;
@@ -2845,7 +2852,7 @@
 #u2938_input {
   position:absolute;
   left:-3px;
-  top:-2px;
+  top:-3px;
 }
 #u2940_img {
   position:absolute;
